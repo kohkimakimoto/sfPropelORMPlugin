@@ -62,7 +62,7 @@ class sfPropelFormFilterGenerator extends sfPropelFormGenerator
 
     // create the project base class for all forms
     $file = sfConfig::get('sf_lib_dir').'/filter/BaseFormFilterPropel.class.php';
-    if (!file_exists($file))
+    if (!file_exists($file) && !class_exists('BaseFormFilterPropel'))
     {
       if (!is_dir($directory = dirname($file)))
       {
