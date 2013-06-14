@@ -9,10 +9,10 @@
  */
 
 
-require_once(dirname(__FILE__).'/../propel-override/builder/om/PHP5PeerBuilder.php');
-require_once(dirname(__FILE__).'/../propel-override/builder/om/PHP5ObjectBuilder.php');
-require_once(dirname(__FILE__).'/../propel-override/builder/om/PHP5ExtensionPeerBuilder.php');
-require_once(dirname(__FILE__).'/../propel-override/builder/om/ExtensionQueryBuilder.php');
+// require_once(dirname(__FILE__).'/../propel-override/builder/om/PHP5PeerBuilder.php');
+// require_once(dirname(__FILE__).'/../propel-override/builder/om/PHP5ObjectBuilder.php');
+// require_once(dirname(__FILE__).'/../propel-override/builder/om/PHP5ExtensionPeerBuilder.php');
+// require_once(dirname(__FILE__).'/../propel-override/builder/om/ExtensionQueryBuilder.php');
 
 require_once(dirname(__FILE__).'/sfPropelBaseTask.class.php');
 
