@@ -11,7 +11,7 @@ Original README.md is replaced to [REAME.origin.md](https://github.com/kohkimaki
 
  * Don't create class files in `projectroot/lib/form|filter`, if you have already defined `BaseFormFilterPropel` or `BaseFormPropel` in other places.
 
-### Model Generator
+### Model generator
  
  * Generate **Peer and **Query model classes in the each sub directories.
 
