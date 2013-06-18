@@ -13,7 +13,7 @@ Original README.md is replaced to [REAME.origin.md](https://github.com/kohkimaki
 
 ### Model generator
  
- * Generate **Peer and **Query model classes in the each sub directories.
+ * Generate **Peer** and **Query** model classes in the each sub directories.
 
 ### Scehma generator
 
